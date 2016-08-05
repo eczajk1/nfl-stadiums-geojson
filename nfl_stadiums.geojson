@@ -26,7 +26,7 @@
 { "type": "Feature", "properties": { "Name": "Carolina Panthers", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -80.852859, 35.225807, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "New England Patriots", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -71.264351, 42.090923, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Oakland Raiders", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -122.20089, 37.751411, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "St. Louis Rams", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -90.188545, 38.632977, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Los Angeles Rams", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -118.28789, 34.01408, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Baltimore Ravens", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -76.622765, 39.277969, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Washington Redskins", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -76.864517, 38.907696, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "New Orleans Saints", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -90.081367, 29.950932, 0.0 ] } },
