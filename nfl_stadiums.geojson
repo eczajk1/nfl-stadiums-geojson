@@ -10,7 +10,7 @@
 { "type": "Feature", "properties": { "Name": "Cleveland Browns", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -81.699562, 41.506023, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Tampa Bay Buccaneers", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -82.503349, 27.975967, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Arizona Cardinals", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -112.262611, 33.527699, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Los Angeles Chargers", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -118.261111, 33.864444, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Los Angeles Chargers", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -118.3392, 33.95345, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Kansas City Chiefs", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -94.484039, 39.048916, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Indianapolis Colts", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -86.163803, 39.760056, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Dallas Cowboys", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ -97.092781, 32.747578, 0.0 ] } },
